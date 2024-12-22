@@ -11,7 +11,7 @@ import com.tutorials.qa.base.Base;
 import com.tutorials.qa.pages.HomePage;
 import com.tutorials.qa.pages.SearchPage;
 
-// comment
+// Added one comment
 
    public class SearchTest extends Base {
 	  
